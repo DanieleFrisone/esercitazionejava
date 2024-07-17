@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: EsercitazionePersona
+
+
+server:
+  port: 8082
